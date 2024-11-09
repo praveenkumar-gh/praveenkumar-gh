@@ -2,5 +2,5 @@
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Azure cloud services and analytics
 - 💞️ I’m looking to collaborate on large scale big data projects that has an impact on the world
-- 📫 Reach out to me on my twitter @praveenpv
+- 📫 Reach out to me on my instagram @praveenpv_
 - 😄 Pronouns: he/him
